@@ -1,0 +1,4 @@
+Kernel,Accuracy (%),Macro F1-Score,Train Time (s),Inference Time (s),Latency (ms/sample)
+Linear,81.15%,0.8096,131.43,2.24,1.121
+RBF (Gaussian),96.45%,0.9645,43.19,5.05,2.527
+Polynomial (d=3),96.15%,0.9614,22.99,2.14,1.072
